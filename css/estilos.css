@@ -45,7 +45,7 @@ body {
     border: 2px solid var(--cinza-claro);
     border-radius: 32px 0px 0px 32px;
     font-size: 16px;
-    color: var(--cinza-claro);
+    color: var(--cinza-escuro);
 }
 
 .pesquisar__input-teclado{
